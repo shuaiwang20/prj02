@@ -1,7 +1,6 @@
-
+*.xml
 .idea
 *.iml
 *.jar
 *.war
-*.xml
-*.properties
+*.class
